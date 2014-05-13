@@ -1,3 +1,9 @@
+gerrit (2.8.5) unstable; urgency=low
+
+  * Update Gerrit to version 2.8.5
+
+ -- Alda Marteau-Hardi <alda@leetchee.fr>  Tue, 13 May 2014 14:00:00 +0200
+
 gerrit (2.8.3) unstable; urgency=low
 
   * Update Gerrit to version 2.8.3
